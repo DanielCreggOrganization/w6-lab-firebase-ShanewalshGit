@@ -14,10 +14,10 @@ bootstrapApplication(AppComponent, {
     provideIonicAngular(),
     provideRouter(routes, withPreloading(PreloadAllModules)),
     provideFirebaseApp(() => initializeApp({
-      projectId: "fir-ionic-project-dc52e",
+      projectId: "fir-ionic-project-7f8c2",
       appId: "1:769063483414:web:0b402d09efd31d324dca57",
       storageBucket: "fir-ionic-project-dc52e.appspot.com",
-      apiKey: "AIzaSyDibzo0p2mUnQmjN6RlfXlHjbgkzSIUjFY",
+      apiKey: "AIzaSyB621en7sfWalLcbfmW84uWPP6JOy9IXGw",
       authDomain: "fir-ionic-project-dc52e.firebaseapp.com",
       messagingSenderId: "769063383314"
     })),
